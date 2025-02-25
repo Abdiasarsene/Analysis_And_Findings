@@ -36,4 +36,4 @@ This repository groups together various projects conducted to address specific b
 
 1. **Clone the repository** :
 ```bash
-git clone [https://github.com/Abdiasarsene/datatscience_projects.git](https://github.com/Abdiasarsene/Analysis_And_Finding)
+git clone https://github.com/Abdiasarsene/Analysis_And_Finding
