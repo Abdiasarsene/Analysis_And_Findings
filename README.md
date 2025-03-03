@@ -1,39 +1,39 @@
-# Real World DS - Projets de DataScience Réels
+# Real World DS - Real Data Science Projects
 
-Bienvenue sur le dépôt **Data Science Projects** ! Ce dépôt contient des projets de datascience que j'ai réalisés pour des entreprises réelles. Ces projets démontrent mes compétences en analyse de données, en modélisation et en création de solutions analytiques pour des problèmes commerciaux concrets.
+Welcome to the **Data Science Projects** repository! This repository contains data science projects that I have completed for real companies. These projects demonstrate my skills in data analysis, modeling, and creating analytical solutions for real business problems.
 
-## Aperçu
+## Overview
 
-Ce dépôt regroupe divers projets menés pour répondre aux besoins spécifiques des entreprises. Chaque projet inclut des détails sur le contexte commercial, les données utilisées, les méthodes d'analyse appliquées et les résultats obtenus. Vous trouverez également des notebooks, des scripts et des rapports détaillés pour chaque projet.
+This repository groups together various projects conducted to address specific business needs. Each project includes details on the business context, the data used, the analysis methods applied, and the results obtained. You will also find detailed notebooks, scripts, and reports for each project.
 
-## Projets Inclus
+## Included Projects
 
-1. **Analyse des ventes et prévisions** :
-   - **Description** : Analyse des données de ventes historiques pour identifier les tendances et prévoir les ventes futures. Utilisation de modèles de séries temporelles pour des prévisions précises.
-   - **Technologies Utilisées** : Python, pandas, scikit-learn, Prophet
+1. **Sales Analysis and Forecasting**:
+- **Description**: Analyzing historical sales data to identify trends and forecast future sales. Using time series models for accurate forecasting.
+- **Technologies used**: Python, pandas, scikit-learn, Prophet
 
-2. **Segmentation des clients** :
-   - **Description** : Segmentation des clients basée sur leur comportement d'achat pour des campagnes de marketing ciblées. Utilisation de l'analyse de clustering pour identifier des segments distincts.
-   - **Technologies Utilisées** : Python, pandas, scikit-learn, K-means, seaborn
+2. **Customer segmentation**:
+- **Description**: Segment customers based on their purchasing behavior for targeted marketing campaigns. Use clustering analysis to identify distinct segments.
+- **Technologies used**: Python, pandas, scikit-learn, K-means, seaborn
 
-3. **Détection de fraudes** :
-   - **Description** : Détection de transactions frauduleuses à l'aide de modèles de machine learning. Analyse des caractéristiques des transactions pour identifier des comportements anormaux.
-   - **Technologies Utilisées** : Python, pandas, scikit-learn, XGBoost
+3. **Fraud detection**:
+- **Description**: Detect fraudulent transactions using machine learning models. Analyze transaction characteristics to identify abnormal behavior.
+- **Technologies used**: Python, pandas, scikit-learn, XGBoost
 
-4. **Analyse des sentiments et des émotions** :
-   - **Description** : Analyse des commentaires des clients sur les réseaux sociaux pour comprendre leurs sentiments et émotions. Utilisation de techniques de traitement du langage naturel (NLP) pour extraire des insights précieux.
-   - **Technologies Utilisées** : Python, NLTK, TextBlob, vaderSentiment
+4. **Sentiment and emotion analysis**:
+- **Description**: Analyze customer comments on social media to understand their sentiments and emotions. Use natural language processing (NLP) techniques to extract valuable insights.
+- **Technologies used**: Python, NLTK, TextBlob, vaderSentiment
 
-5. **Optimisation des chaînes d'approvisionnement** :
-   - **Description** : Optimisation des chaînes d'approvisionnement en analysant les données logistiques. Identification des inefficacités et propositions de solutions pour améliorer les performances.
-   - **Technologies Utilisées** : Python, pandas, scikit-learn, PuLP
+5. **Supply Chain Optimization**:
+- **Description**: Optimize supply chains by analyzing logistics data. Identify inefficiencies and propose solutions to improve performance.
+- **Technologies used**: Python, pandas, scikit-learn, PuLP
 
-6. **Analyse prédictive des pannes d'équipements** :
-   - **Description** : Analyse des données de maintenance pour prédire les pannes d'équipements. Utilisation de modèles de machine learning pour réduire les temps d'arrêt et les coûts de maintenance.
-   - **Technologies Utilisées** : Python, pandas, seaborn, scikit-learn, randomForest, xgboost
+6. **Predictive Analysis of Equipment Failures**:
+- **Description**: Analyze maintenance data to predict equipment failures. Use machine learning models to reduce downtime and maintenance costs.
+- **Technologies used** : Python, pandas, seaborn, scikit-learn, randomForest, xgboost
 
-## Comment Utiliser ce Dépôt
+## How to use this repository
 
-1. **Clonez le dépôt** :
-   ```bash
-   git clone https://github.com/Abdiasarsene/datatscience_projects.git
+1. **Clone the repository** :
+```bash
+git clone https://github.com/Abdiasarsene/Analysis_And_Finding
